@@ -1,0 +1,5 @@
+[]-make a client folder by running the command
+[]- make necessary folders under source folder
+[]- made all the folders under component folder by identifying the needs
+[]-Want to add the pages for the application
+[]-write the code for all the named folders
